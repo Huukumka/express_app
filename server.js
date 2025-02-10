@@ -2,7 +2,7 @@ const express = require('express');
 const { Pool } = require("pg");
 const cors = require("cors");
 
-const port = 5555;  
+const port = 8080;  
 
 
 const app = express();
